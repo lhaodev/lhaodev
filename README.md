@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi there! My name is Lu and I am a computer science grad student at Brandeis University. <br><br>I am passionate about creating website apps and exploring new technologies. In my free time, I like to create blogs about my career transition stories and help others navigate into the tech industry. <br><br>I am excited to connect with you and learn from you. Thank you for taking the time to read my introduction!
+Hi there! My name is Lu. <br><br>I am passionate about creating website apps and exploring new technologies. In my free time, I like to create blogs about my career transition stories and help others navigate into the tech industry. <br><br>I am excited to connect with you and learn from you. Thank you for taking the time to read my introduction!
 
 
 ## 🌐 Socials:
